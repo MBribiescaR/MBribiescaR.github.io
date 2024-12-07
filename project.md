@@ -85,7 +85,7 @@ To improve predictive accuracy, an ensemble approach was applied by combining th
 
 First, Table 1 shows the RMSE values of all models when applied to the test data. The use of K-Folds cross-validation had a minimal effect on model performance, with an RMSE change of less than 1x10^-3 mm. The Ridge Regularization (LR) models demonstrated significantly lower RMSE values compared to the Random Forest (RF) model. 
 
-Link to table [is here](https://github.com/MBribiescaR/MBribiescaR.github.io/blob/main/assets/Final_Project_mabr_AOSC204.pdf)
+Link to table [is here](https://MBribiescaR.github.io/assets/Final_Project_mabr_AOSC204.pdf)
 
 On the other hand, Figure 3 compares the predicted and measured ETo, along with the residuals. The mean of the residuals for the ensemble average was very close to zero (0.042), and the residuals showed a left skew, which means that the mean is less than median, in this case. Figure 4 displays the predicted Eto values from the ML models over time, providing an initial assessment of the model’s ability to replicate ETo patterns.
 
