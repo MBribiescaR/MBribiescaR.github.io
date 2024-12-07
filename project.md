@@ -6,6 +6,12 @@ In this project, I applied machine learning techniques to explore and predict Re
 
 Therefore, given my background as a Civil Engineer currently working in irrigation and water resources management, learning Machine Learning techniques will help me find solutions to water scarcity problems more efficiently. 
 
+Link to the report [is here](https://MBribiescaR.github.io/assets/Final_Project_mabr_AOSC204.pdf)
+
+Link to the code [is here](https://colab.research.google.com/drive/1n7LZyM-k1rvVTD7yjoW8aFgu4M74_u_1?usp=sharing)
+
+Link to the data [is here](https://colab.research.google.com/drive/1n7LZyM-k1rvVTD7yjoW8aFgu4M74_u_1?usp=sharing)
+
 
 ## Introduction 
 
