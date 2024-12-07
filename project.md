@@ -10,7 +10,7 @@ Link to the report [is here](https://MBribiescaR.github.io/assets/Final_Project_
 
 Link to the code [is here](https://colab.research.google.com/drive/1n7LZyM-k1rvVTD7yjoW8aFgu4M74_u_1?usp=sharing)
 
-Link to the data [is here](https://colab.research.google.com/drive/1n7LZyM-k1rvVTD7yjoW8aFgu4M74_u_1?usp=sharing)
+Link to the data [is here](https://MBribiescaR.github.io/assets/alturas_data.csv)
 
 
 ## Introduction 
