@@ -35,13 +35,13 @@ The dataset used in this project is a comprehensive set of historical meteorolog
 The data spans 3 years, providing a rich historical record of environmental conditions. The dataset contains variables such as precipitation, solar radiation, net radiation, air temperature, etc., and the target variable (ETo), making it suitable for supervised machine learning models. The dataset was extracted from a CIMIS station located in Alturas, California (see Figure 1, highlighted in red): 
 
 
-![](assets/IMG/fig1.png){: width="500" }
+![](assets/IMG/fig1.png)
 
 *Figure 1. Location of the CIMIS station in Alturas, CA.*
 
 The dataset is highly relevant for machine learning because it exhibits both linear and non-linear relationships in the target variable. By analyzing these patterns using machine learning, I aimed to create an accurate predictive model for Eto. The machine learning models used in this project were chosen to handle the complexities in the dataset effectively.
 
-![](assets/IMG/fig2.png){: width="500" }
+![](assets/IMG/fig2.png)
 
 *Figure 2. Data included in the analyzed dataset, being ETo the target variable.*
 
@@ -95,11 +95,13 @@ Link to table [is here](https://MBribiescaR.github.io/assets/Final_Project_mabr_
 
 On the other hand, Figure 3 compares the predicted and measured ETo, along with the residuals. The mean of the residuals for the ensemble average was very close to zero (0.042), and the residuals showed a left skew, which means that the mean is less than median, in this case. Figure 4 displays the predicted Eto values from the ML models over time, providing an initial assessment of the model’s ability to replicate ETo patterns.
 
-![](assets/IMG/fig3.png){: width="500" }
+![](assets/IMG/fig3.png)
+
 *Figure 3. Scatterplot showing predicted v observed ETo values on the left. On the right, a histogram of the residuals when using the ensemble average approach. The average residual equals 0.042.*
 
-![](assets/IMG/fig4.png){: width="500" }
-*Figure 4. Figure 4. Measured and ML ETo results comparison.*
+![](assets/IMG/fig4.png)
+
+*Figure 4. Measured and ML ETo results comparison.*
 
 
 5.1.	Models Performance
@@ -111,7 +113,8 @@ The results were plotted to show the REC curves for each model. These curves ill
 
 By comparing the curves for Ridge Regression, Random Forest, and the Ensemble model, insights were gained into which model provided more accurate predictions across varying levels of acceptable error. The curves were also used to visualize the trade-offs between model accuracy and error tolerance, providing a more nuanced understanding of model performance.
 
-![](assets/IMG/fig5.png){: width="500" }
+![](assets/IMG/fig5.png)
+
 *Figure 5. REC curves for model performance.*
 
 5.2.	Accuracy 
