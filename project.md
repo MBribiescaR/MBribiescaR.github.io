@@ -35,7 +35,7 @@ The dataset used in this project is a comprehensive set of historical meteorolog
 The data spans 3 years, providing a rich historical record of environmental conditions. The dataset contains variables such as precipitation, solar radiation, net radiation, air temperature, etc., and the target variable (ETo), making it suitable for supervised machine learning models. The dataset was extracted from a CIMIS station located in Alturas, California (see Figure 1, highlighted in red): 
 
 
-![](assets/IMG/fig1.png)
+![](assets/IMG/fig1.jpg)
 
 *Figure 1. Location of the CIMIS station in Alturas, CA.*
 
